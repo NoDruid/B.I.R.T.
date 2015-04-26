@@ -1,0 +1,62 @@
+Layer Selection: RaycastedTerrain
+Brush Max Size: 200
+Brush Size: 200
+Fill Mode: False
+Fill Rate: 0.01
+
+Game Object: Assets/Prefabs/Clouds/Cloud1.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: True
+Random Rotation Toggle: True
+Random Rotation X: True
+Random Rotation Y: True
+Random Rotation Z: True
+Random Scale Toggle: True
+Random Scale Min: 0.9
+Random Scale Max: 1.5
+Fixed Rotation Toggle: True
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/Prefabs/Clouds/Cloud2.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: True
+Random Rotation Toggle: True
+Random Rotation X: True
+Random Rotation Y: True
+Random Rotation Z: True
+Random Scale Toggle: True
+Random Scale Min: 0.9
+Random Scale Max: 1.5
+Fixed Rotation Toggle: True
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/Prefabs/Clouds/Cloud3.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: True
+Random Rotation Toggle: True
+Random Rotation X: True
+Random Rotation Y: True
+Random Rotation Z: True
+Random Scale Toggle: True
+Random Scale Min: 0.9
+Random Scale Max: 1.5
+Fixed Rotation Toggle: True
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Group Names:
+Forest

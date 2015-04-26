@@ -1,0 +1,57 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1987 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.188 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initialized touch support.
+Platform assembly: F:\Cloud-Speicher\Google Drive\6. Semester\Semesterprojekt\Birt\BirtBuild\Birt_Data\Managed\System.Core.dll (this message is harmless)
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1990 -> priority: 1 
+  Thread -> id: 9e4 -> priority: 1 
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+
+Infinity or nan floating point numbers appear when calculating matrices for collider.
+ 
+(Filename:  Line: 156)
+

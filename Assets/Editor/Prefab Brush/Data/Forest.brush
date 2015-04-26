@@ -1,0 +1,59 @@
+Layer Selection: RaycastedTerrain
+Brush Max Size: 200
+Brush Size: 200
+Fill Mode: True
+Fill Rate: 0.01
+
+Game Object: Assets/Prefabs/Tree1.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: True
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.9
+Random Scale Max: 1.2
+Fixed Rotation Toggle: True
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/Prefabs/Rock1.prefab
+Layer: Default
+Toggle: True
+Slider: 0.2407408
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: True
+Random Rotation Y: True
+Random Rotation Z: True
+Random Scale Toggle: True
+Random Scale Min: 1
+Random Scale Max: 2
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/Prefabs/Rock2.prefab
+Layer: Default
+Toggle: True
+Slider: 0.1574074
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: True
+Random Rotation Y: True
+Random Rotation Z: True
+Random Scale Toggle: True
+Random Scale Min: 1
+Random Scale Max: 2
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
