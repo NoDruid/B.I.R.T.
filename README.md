@@ -1,2 +1,2 @@
-# B.I.R.T.
+# Ewolf
 Unity Survival Game in Low Poly Style
